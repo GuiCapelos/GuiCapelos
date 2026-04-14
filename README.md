@@ -12,7 +12,7 @@
 ## Sobre mim
 
 Profissional de TI com **1+ ano de experiência** em **suporte técnico** e **infraestrutura de redes** em ambientes de eventos, atuando com atendimento **presencial e remoto (Help Desk)**.  
-Tenho prática com **redes estruturadas**, **VLANs** e equipamentos **Mikrotik**. Atualmente estudo **Segurança da Informação** (FIAP + Alura) e estou em evolução para a área.
+Tenho prática com **redes estruturadas**, **VLANs** equipamentos **Mikrotik** e **Unifi** . Atualmente estudo **Segurança da Informação** (FIAP + Alura) e estou em evolução para a área.
 
 ---
 
