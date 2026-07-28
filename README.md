@@ -2,7 +2,7 @@
 
 # Guilherme Lobo 👋
 
-**Suporte • Redes • Infraestrutura**  
+**Redes • Suporte • Infraestrutura**  
 🎓 Técnico em Defesa Cibernética (FIAP) | 📍 São Paulo – SP (ZN)
 
 </div>
