@@ -3,7 +3,7 @@
 # Guilherme Lobo 👋
 
 **Suporte • Redes • Infraestrutura**  
-🎓 Técnico em Segurança da Informação (FIAP) | 📍 São Paulo – SP (ZN)
+🎓 Técnico em Defesa Cibernética (FIAP) | 📍 São Paulo – SP (ZN)
 
 </div>
 
@@ -11,15 +11,15 @@
 
 ## Sobre mim
 
-Profissional de TI com **1+ ano de experiência** em **suporte técnico** e **infraestrutura de redes** em ambientes de eventos, atuando com atendimento **presencial e remoto (Help Desk)**.  
-Tenho prática com **redes estruturadas**, **VLANs** equipamentos **Mikrotik** e **Unifi** . Atualmente estudo **Segurança da Informação** (FIAP + Alura) e estou em evolução para a área.
+Profissional de TI com **1+ ano de experiência** em **infraestrutura de redes** e **suporte técnico** em ambientes de eventos, atuando com atendimento **presencial e remoto (Help Desk)**.  
+Tenho prática com **redes estruturadas**, **VLANs** equipamentos **Mikrotik** e **Unifi** . Atualmente estudo **Defesa Cibernética** (FIAP + Alura) e estou em evolução para a área.
 
 ---
 
 ## O que eu faço hoje
 - 🛠️ Suporte Técnico (N1/N2) e troubleshooting
 - 🌐 Redes e Infra (TCP/IP, VLAN, cabeamento estruturado)
-- 🔐 Segurança da Informação (em aprendizado)
+- 🔐 Defesa Cibernética (em aprendizado)
 
 ---
 
